@@ -1,4 +1,4 @@
-# Career Roadmap 2026
+# Career Roadmap
 
 This repository is a private career control system.
 
@@ -6,7 +6,7 @@ It is not documentation.
 It is not a journal.
 It is not meant to be polished.
 
-Its purpose is to help you make clearer career decisions through 2026.
+Its purpose is to help you make clearer career decisions through this next year.
 
 ## How to Use This Repo
 
