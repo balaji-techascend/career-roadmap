@@ -4,14 +4,15 @@
 > This file is your active Career Control System.
 > It is used to guide decisions, tradeoffs, and adjustments over time.
 >
-> If a decision is not constrained by the Baseline Truths below, it does not belong here.
+> If a decision is not constrained by the Baseline Truths and Leverage Decisions below,
+> it does not belong here.
 
 ---
 
 ## Baseline Truths (Anchor)
 
 These truths describe your current career reality.
-They are copied from `baseline.md` and act as system invariants.
+They are copied from `1-baseline.md` and act as system invariants.
 
 - Baseline Truth #1:
   - …
@@ -31,115 +32,29 @@ They are copied from `baseline.md` and act as system invariants.
 
 ---
 
-## Current Focus (Now)
+## Leverage Decisions (from Module 2)
 
-What you are intentionally optimizing for **this quarter**.
+These decisions define **how you allocate career energy**.
+They are copied from `2-leverage.md` and should change how you say yes or no.
 
-This section should be short and explicit.
-If it grows, focus is leaking.
+This section exists to prevent drift back into low-leverage effort.
 
-- Primary focus:
+- Leverage Decision #1:
   - …
-- Secondary focus (optional):
+- Leverage Decision #2:
   - …
-
-**Explicit tradeoffs**
-- Because of this focus, I am not prioritizing:
+- Leverage Decision #3:
   - …
+- (Optional) Leverage Decision #4:
   - …
-
-This focus should respect:
-- role reality
-- reward mechanics
-- personal constraints
-
----
-
-## Active Bets
-
-Deliberate, testable moves you are making based on your baseline.
-
-Rules:
-- Maximum of **3 active bets**
-- Each bet must build on **existing leverage**
-- Bets can be internal or external
-- If a bet fails, you learn — not panic
-
----
-
-### Bet: <Short, specific name>
-
-- Why this bet exists  
-  (Which Baseline Truth(s) this is responding to)
-  - …
-- What success looks like  
-  (Concrete and observable)
-  - …
-- What would invalidate this bet  
-  (Clear signal to stop or rethink)
+- (Optional) Leverage Decision #5:
   - …
 
----
+**Rules**
+- These are decisions, not goals
+- If everything still feels important, revisit `2-leverage.md`
+- Changes here should be rare and intentional
 
-### Bet: <Optional second bet>
-
-- Why this bet exists:
-  - …
-- What success looks like:
-  - …
-- What would invalidate this bet:
-  - …
-
----
-
-## What I Am Intentionally Not Doing
-
-This section protects focus and energy.
-
-These are **deliberate non-choices**, not procrastination.
-
-- I am not pursuing the following roles or paths right now:
-  - …
-- I am not investing time in the following skills or activities:
-  - …
-- I am saying no to the following opportunities for now:
-  - …
-
-Each item here should be explainable using:
-- Baseline Truths
-- Constraints
-- Reward mechanics
-
----
-
-## Triggers & Signals
-
-Pre-decided conditions that would cause you to re-evaluate this roadmap.
-
-These replace emotional or reactive decision-making.
-
-- Signal:
-  - What I would observe:
-    - …
-  - Why this matters:
-    - …
-  - What I will re-evaluate if it occurs:
-    - …
-
-- Signal:
-  - What I would observe:
-    - …
-  - Why this matters:
-    - …
-  - What I will re-evaluate if it occurs:
-    - …
-
-Signals should come directly from:
-- role exposure
-- organizational risk
-- market risk
-
----
 
 ## Review Log
 
