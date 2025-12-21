@@ -36,3 +36,6 @@ Ongoing:
 - Commit with a short reason
 
 This repo should evolve as your career evolves.
+
+## License
+This repository is proprietary course material. See LICENSE.md for details.
