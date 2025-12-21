@@ -23,6 +23,7 @@ This is a diagnostic step that makes future decisions calmer and more deliberate
 - Be specific and concrete  
 - "Good enough" answers are fine  
 - No future planning here  
+- If you already think clearly in writing, you may not need AI at all in this module. Skipping AI does not reduce the value of this exercise.
 - Time-box this to **30–45 minutes total**
 
 If something feels slightly uncomfortable to write, you are probably doing it right.
@@ -31,7 +32,7 @@ If something feels slightly uncomfortable to write, you are probably doing it ri
 
 ## 1. What Is My Role Actually Optimized For?
 
-Describe what your role *really* exists to deliver today, not what it should become or your title (be very honest).
+Describe the work you actually do and are relied on for today, not your title or what the role is supposed to be.
 
 - Core outcomes my role reliably produces:
   - …
@@ -62,6 +63,7 @@ Do not add new responsibilities or speculate beyond what I’ve written.
 ## 2. What Actually Gets Rewarded Currently?
 
 Separate effort from reward.
+Start with what you personally are rewarded for, then zoom out to what tends to be rewarded in the organization overall.
 
 - Behaviors or contributions that are visibly rewarded (raises, trust, influence):
   - …
@@ -94,10 +96,11 @@ Name risks that could materially affect your role or options.
   - …
 - Organization-level exposure (strategy shifts, budget pressure, leadership churn):
   - …
-- Market-level exposure (how this role translates externally):
+- Market-level exposure (layoffs, hiring trends, AI impact, how this role translates externally):
   - …
 
 Do not solve or rank risks here. Just name them.
+Include signals you’re already seeing, not predictions.
 
 <details>
 <summary><strong>Optional AI Assist (click to expand)</strong></summary>
@@ -171,6 +174,7 @@ Do not challenge or override them.
 
 From everything above, extract **3–5 baseline truths** that feel accurate even if uncomfortable.
 
+Choose truths that would meaningfully affect how you say yes or no to opportunities over the next 6-12 months.
 These should describe:
 - Your current reality
 - Not aspirations
@@ -187,14 +191,20 @@ These should describe:
 - (Optional) Baseline Truth #5:
   - …
 
-<!-- Optional AI Assist
+<details>
+<summary><strong>Optional AI Assist (click to expand)</strong></summary>
+
+If you already think clearly in writing, you can skip this.
+
+**Prompt:**
 Given my baseline truths above, help me check whether they are:
 - grounded in what I wrote earlier
 - stated clearly and specifically
 - free of future planning or optimism
 
 Do not rewrite them unless I ask.
--->
+</details>
+
 
 ---
 
