@@ -66,12 +66,14 @@ These are distilled from `3-direction.md`.
 
 ### Active Direction(s)
 
-List **1–2 primary directions** you are actively supporting with your actions.
+List your **Primary Direction** and (optionally) your **Secondary / Insurance Direction**
+for the next 6–12 months.
 
-- Active Direction #1:
+- Primary Direction:
   - …
-- (Optional) Active Direction #2:
+- Secondary (Insurance) Direction (optional):
   - …
+
 
 ### Deferred / Not-Pursued Directions
 
@@ -85,11 +87,17 @@ These paths are **intentionally deprioritized** for the current period.
 
 A short statement that summarizes your current stance.
 
+This sentence should make tradeoffs explicit and help you decide
+what *does not* belong on your plate this year.
+
 - “Over the next year, I am primarily optimizing for … while intentionally deprioritizing …”
 
 ### Change Triggers
 
 Concrete signals that would cause you to revisit your direction.
+
+Select the **1–2 most meaningful signals per category**.
+More than that reduces clarity.
 
 - Org-level trigger:
   - …
@@ -99,6 +107,7 @@ Concrete signals that would cause you to revisit your direction.
   - …
 - Personal trigger:
   - …
+
 
 **Rules**
 - Direction ≠ permanent commitment

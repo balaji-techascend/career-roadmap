@@ -1,201 +1,270 @@
-# Direction Options — Your Viable Paths for Next Year
+# Choosing Your Next Direction
 
-## Purpose of This Module
+## Purpose
+This module helps you **choose where to aim next**, without locking you into a brittle plan.
 
-This file exists to **constrain your career decision space** for the next year.
+By the end of this module, you will:
+- Evaluate a **small, bounded set** of realistic career directions
+- Select **one Primary Direction** (your main bet for the next 6–12 months)
+- Select **one Secondary Direction** (your insurance path)
+- Make tradeoffs and risks **explicit**
+- Capture signals that will tell you when to re-evaluate
 
-You are not trying to predict the future or lock in a permanent path.  
-You are identifying a **small set of viable directions** that make sense given:
-
-- your current baseline
-- your leverage
-- your real-world constraints
-
-Clarity here reduces anxiety later.  
-If everything is an option, nothing is deliberate.
+This module feeds directly into `roadmap.md`.
 
 ---
 
-## Constraints to Respect
+## Ground Rules
 
-These constraints come from '1-baseline.md' and '2-leverage.md'.  
-They are not preferences, they are reality.
+- 2–4 directions maximum  
+- No detailed planning yet  
+- Think in **12–24 month arcs**  
+- Tradeoffs are required  
 
-- Time / energy limits:
-  - …
-- Financial constraints:
-  - …
-- Role / org constraints:
-  - …
-- Personal constraints (family, health, geography, etc.):
-  - …
-- Risk tolerance for the next 12 months:
-  - …
+---
 
-**Rule:**  
-If a direction violates two or more constraints, it does not belong below.
+## Step 1 — Constraints Check (Non-Negotiables)
+
+Write down constraints that are **true right now**.
+
+- Constraint 1: …
+- Constraint 2: …
+- Constraint 3: …
+- Constraint 4: …
+
+> If a direction violates a constraint, it is not viable *right now*.
 
 <details>
 <summary><strong>Optional AI Assist (click to expand)</strong></summary>
 
 If you already think clearly in writing, you can skip this.
 
-**Prompt:**  
-"Based on the constraints I listed above and my current background of [provide your background], reflect back which types of career directions are likely viable versus likely unrealistic in the next 12 months.  
-Do not suggest new paths.  
-Only evaluate feasibility against constraints."
+Prompts you can use:
+- “Given these constraints, which career directions are realistically excluded?”
+- “Are any of these constraints assumptions rather than facts?”
+- “Which constraint is the biggest limiter right now?”
+
 </details>
 
-## Viable Direction Options
-
-List **2–4 directions maximum**.
-
-These are not job titles.  
-They are **directional bets** you could reasonably pursue over the next year.
-
-### Direction Option 1
-- Short description:
-  - …
-- Why this is viable *now*:
-  - …
-- What progress would look like in 12 months:
-  - …
-- What this option requires more of:
-  - time / visibility / political capital / skill depth / risk / energy
-- What this option gives you:
-  - stability / influence / optionality / income / learning / reputation
-
 ---
 
-### Direction Option 2
-- Short description:
-  - …
-- Why this is viable *now*:
-  - …
-- What progress would look like in 12 months:
-  - …
-- What this option requires more of:
-  - …
-- What this option gives you:
-  - …
+## Step 2 — Provided Set of Common Directions
 
----
+Choose **2–4 directions** from the list below.
 
-### Direction Option 3 (Optional)
-- Short description:
-  - …
-- Why this is viable *now*:
-  - …
-- What progress would look like in 12 months:
-  - …
-- What this option requires more of:
-  - …
-- What this option gives you:
-  - …
+- Deepening as a Senior / Staff-level IC  
+- Transition to Solution / Technical Architecture  
+- Platform / Infrastructure specialization  
+- Engineering leadership (Tech Lead / EM)  
+- Domain expert (banking, fintech, healthcare, etc.)  
+- Internal consulting / cross-team strategist  
+- External job move (similar role, better context)
 
----
-
-## Option Tradeoffs (Upsides & Costs)
-
-This section forces honesty.
-
-For each direction, capture the **non-obvious costs**, not just the benefits.
-
-- Direction 1:
-  - Upside:
-    - …
-  - Cost / risk:
-    - …
+Selected directions:
+- Direction A: …
+- Direction B: …
+- Direction C: …
+- Direction D: …
 
 <details>
 <summary><strong>Optional AI Assist (click to expand)</strong></summary>
 
 If you already think clearly in writing, you can skip this.
 
-**Prompt:** 
-"For this direction, challenge my assumptions.  
-What are the non-obvious costs, risks, or second-order effects someone at my career stage might underestimate?  
-Do not add benefits."
+Prompts you can use:
+- “Given my background and constraints, which 2–3 of these directions are most realistic?”
+- “Which of these directions typically has the lowest switching cost?”
+- “Which direction tends to compound career optionality?”
+
 </details>
 
-- Direction 2:
-  - Upside:
-    - …
-  - Cost / risk:
-    - …
-
-- Direction 3 (if applicable):
-  - Upside:
-    - …
-  - Cost / risk:
-    - …
-
-If two options feel equally attractive, you are not being specific enough.
-
 ---
 
-## Directions Explicitly Not Pursued
+## Step 3 — Viable Direction Options
 
-List paths you are **intentionally not pursuing this year**.
+For each selected direction, fill this out.
 
-This is not failure.  
-This is focus.
+### Direction Option — …
 
-Examples:
-- Actively job hopping without a clear thesis
-- Heavy people-management tracks
-- Starting a side business this year
-- Relocation-dependent roles
-
-Your list:
-- …
-- …
-- …
-
----
-
-## Signals That Would Change Direction
-
-These are **clear triggers**, not vague feelings.
-
-If one or more of these occur, you revisit this file.
-
-- Org-level signals:
+- Why this is viable now:
   - …
-- Role-level signals:
   - …
-- Market-level signals:
   - …
-- Personal signals:
+- Key assumptions:
   - …
+  - …
+
+(Repeat for each direction option.)
 
 <details>
 <summary><strong>Optional AI Assist (click to expand)</strong></summary>
 
 If you already think clearly in writing, you can skip this.
 
-**Prompt:** 
-"Help me convert any vague signals above into concrete, observable events.  
-Each signal should be something I could clearly notice within a quarter."
-</details>
+Prompts you can use:
+- “What assumptions am I making about this direction that could be wrong?”
+- “What proof would validate or invalidate these assumptions?”
+- “What usually causes people to fail in this direction?”
 
-No signals = drift.
+</details>
 
 ---
 
-## Distillation for 'roadmap.md'
+## Step 4 — Option Tradeoffs (Upsides & Costs)
 
-Pull only the essentials into 'roadmap.md'.
+For each direction:
 
-- Active direction(s) for the next 6–12 months:
+### Direction — …
+
+- Upsides:
   - …
-- Direction(s) intentionally deferred:
   - …
-- Primary constraint shaping decisions:
+- Costs / Tradeoffs:
   - …
-- One-sentence direction thesis:
   - …
 
-Stop here.  
-Do not optimize wording.  
-This will evolve.
+> If this feels easy, you are likely undercounting costs.
+
+<details>
+<summary><strong>Optional AI Assist (click to expand)</strong></summary>
+
+If you already think clearly in writing, you can skip this.
+
+Prompts you can use:
+- “What hidden tradeoffs do people underestimate in this direction?”
+- “What second-order effects show up after 12 months?”
+- “Who usually regrets choosing this path, and why?”
+
+</details>
+
+---
+
+## Step 5 — Directions Explicitly Not Pursued
+
+List directions you are consciously setting aside.
+
+- Direction not pursued: …
+  - Reason: …
+- Direction not pursued: …
+  - Reason: …
+
+These will be copied into `roadmap.md`.
+
+<details>
+<summary><strong>Optional AI Assist (click to expand)</strong></summary>
+
+If you already think clearly in writing, you can skip this.
+
+Prompts you can use:
+- “Which of these directions might be worth revisiting later as a hedge?”
+- “What would need to change for one of these to become viable?”
+- “Am I avoiding any direction purely out of fear?”
+
+</details>
+
+---
+
+## Step 6 — Primary & Secondary Direction Selection
+
+You now commit to **one main path** and **one insurance path**.
+
+### Primary Direction (Main Bet)
+
+- Direction: …
+- Why this is the best focus for the next 6–12 months:
+  - …
+  - …
+
+### Secondary Direction (Insurance)
+
+- Direction: …
+- How this protects you if the primary stalls:
+  - …
+  - …
+
+### Why this pairing makes sense
+- …
+- …
+
+<details>
+<summary><strong>Optional AI Assist (click to expand)</strong></summary>
+
+If you already think clearly in writing, you can skip this.
+
+Prompts you can use:
+- “Does this primary + secondary combination diversify risk?”
+- “Is my secondary direction truly independent of the primary?”
+- “Which path gives me leverage if conditions change?”
+
+</details>
+
+---
+
+## Step 7 — Risks I’m Willingly Carrying
+
+Name risks explicitly.
+
+- Risk 1:
+  - Light mitigation: …
+  - Early warning sign: …
+- Risk 2:
+  - Light mitigation: …
+  - Early warning sign: …
+- Risk 3:
+  - Light mitigation: …
+  - Early warning sign: …
+
+<details>
+<summary><strong>Optional AI Assist (click to expand)</strong></summary>
+
+If you already think clearly in writing, you can skip this.
+
+Prompts you can use:
+- “What risks am I likely underestimating here?”
+- “What usually fails first in this direction?”
+- “What early signals precede trouble?”
+
+</details>
+
+---
+
+## Step 8 — Signals That Would Change Direction
+
+Define what evidence would cause you to **re-evaluate your plan**.
+
+These signals map directly into **`roadmap.md → Change Triggers`**.
+
+- Signal 1: …
+  - Goes into `roadmap.md → Change Triggers → Primary Direction`
+- Signal 2: …
+  - Goes into `roadmap.md → Change Triggers → Primary Direction`
+- Signal 3: …
+  - Goes into `roadmap.md → Change Triggers → Secondary Direction`
+- Signal 4: …
+  - Goes into `roadmap.md → Change Triggers → Secondary Direction`
+
+<details>
+<summary><strong>Optional AI Assist (click to expand)</strong></summary>
+
+If you already think clearly in writing, you can skip this.
+
+Prompts you can use:
+- “Are these signals objective and observable?”
+- “Which signals would be noisy vs decisive?”
+- “What would count as a false alarm?”
+- “What would be a strong positive signal?”
+
+</details>
+
+---
+
+## Output
+
+When complete, you should have:
+- 1 Primary Direction  
+- 1 Secondary Direction  
+- Explicit tradeoffs  
+- Explicit risks  
+- Clear change signals  
+
+You are now ready to convert this into a **focused execution roadmap**.
