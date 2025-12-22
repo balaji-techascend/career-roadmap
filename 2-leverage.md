@@ -54,6 +54,8 @@ Be honest. Discomfort here is expected.
 
 Identify categories of effort that **amplify impact** beyond raw execution.
 
+If Section 2 is about what has paid off so far, this section is about what tends to compound going forward — even if it hasn’t yet.
+
 Think in terms of:
 - Trust that travels beyond one manager or team
 - Work that gets reused or referenced
@@ -105,6 +107,7 @@ Based on the above, for the next 90 days:
   - ...
 
 Keep this short. Fewer than 5 bullets total.
+Make sure these choices respect the constraints you captured in 1-baseline.md
 
 ---
 

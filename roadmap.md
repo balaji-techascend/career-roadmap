@@ -4,8 +4,8 @@
 > This file is your active Career Control System.
 > It is used to guide decisions, tradeoffs, and adjustments over time.
 >
-> If a decision is not constrained by the Baseline Truths and Leverage Decisions below,
-> it does not belong here.
+> If a decision is not constrained by the Baseline Truths, Leverage Decisions,
+> and Direction Commitments below, it does not belong here.
 
 ---
 
@@ -55,6 +55,57 @@ This section exists to prevent drift back into low-leverage effort.
 - If everything still feels important, revisit `2-leverage.md`
 - Changes here should be rare and intentional
 
+---
+
+## Direction Commitments (Next 6–12 Months)
+
+This section captures **where you are intentionally heading**  
+and what you are **not** optimizing for right now.
+
+These are distilled from `3-direction.md`.
+
+### Active Direction(s)
+
+List **1–2 primary directions** you are actively supporting with your actions.
+
+- Active Direction #1:
+  - …
+- (Optional) Active Direction #2:
+  - …
+
+### Deferred / Not-Pursued Directions
+
+These paths are **intentionally deprioritized** for the current period.
+
+- …
+- …
+- …
+
+### Direction Thesis (One Sentence)
+
+A short statement that summarizes your current stance.
+
+- “Over the next year, I am primarily optimizing for … while intentionally deprioritizing …”
+
+### Change Triggers
+
+Concrete signals that would cause you to revisit your direction.
+
+- Org-level trigger:
+  - …
+- Role-level trigger:
+  - …
+- Market-level trigger:
+  - …
+- Personal trigger:
+  - …
+
+**Rules**
+- Direction ≠ permanent commitment
+- If your actions consistently contradict this section, update it
+- Avoid adding more than two active directions
+
+---
 
 ## Review Log
 
@@ -74,7 +125,7 @@ This keeps the system honest and grounded over time.
   - Why:
     - …
 
-Keep entries short.
+Keep entries short.  
 If nothing changes during a review, note that explicitly.
 
 ---
