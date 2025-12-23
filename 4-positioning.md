@@ -144,23 +144,28 @@ If an action requires frequent reminders or personal advocacy, it does not belon
 
 ---
 
-## 6. Distillation → `roadmap.md`
+## Distillation → roadmap.md (Required)
 
-After completing this file, update `roadmap.md` with the following:
+After completing this file, update these sections in `roadmap.md`:
 
-### Current Focus (Now)
-- One sentence describing the positioning you are actively reinforcing
+### → Positioning (How I Am Being Reinforced)
+- Copy your **Positioning Statement**
+- Copy the **3–5 outcomes** you want to be known for
 
-### Active Bets
-- One positioning-related bet, including:
-  - Why this positioning matters now
-  - What proof would confirm it is working
+### → What I’m Intentionally Not Doing
+- Copy one visibility behavior you are explicitly avoiding
+
+### → Active Bets (if applicable)
+If your positioning depends on an uncertain outcome:
+- Add **one positioning-related bet**
+- Include:
+  - What proof would confirm it
   - What signal would invalidate it
 
-### What I’m Intentionally Not Doing
-- One visibility behavior you are explicitly avoiding
+Rules:
+- Positioning in the roadmap should fit on one screen
+- If it requires explanation, it is not ready
 
-This ensures positioning is **managed**, not accidental.
 
 ---
 

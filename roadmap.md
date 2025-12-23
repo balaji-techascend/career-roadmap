@@ -1,18 +1,25 @@
 # Career Roadmap — Control Panel
 
 > Purpose  
-> This file is your active Career Control System.
-> It is used to guide decisions, tradeoffs, and adjustments over time.
+> This file is the **authoritative control system** for my career decisions.
 >
-> If a decision is not constrained by the Baseline Truths, Leverage Decisions,
-> and Direction Commitments below, it does not belong here.
+> It is used to:
+> - guide tradeoffs
+> - constrain what I say yes and no to
+> - detect when conditions have changed
+>
+> If something is not reflected here, it should not influence my decisions.
+
+This file evolves.  
+It is reviewed regularly.  
+It is not a plan — it is a filter.
 
 ---
 
 ## Baseline Truths (Anchor)
 
-These truths describe your current career reality.
-They are copied from `1-baseline.md` and act as system invariants.
+These are **current facts**, not opinions or aspirations.  
+They come from `1-baseline.md` and act as system constraints.
 
 - Baseline Truth #1:
   - …
@@ -22,123 +29,199 @@ They are copied from `1-baseline.md` and act as system invariants.
   - …
 - (Optional) Baseline Truth #4:
   - …
-- (Optional) Baseline Truth #5:
-  - …
 
 **Rules**
-- Do not edit casually
-- Update only when reality changes
-- Treat these as constraints, not opinions
+- These are not edited casually
+- They change only when reality changes
+- If a decision violates a baseline truth, it is invalid
 
 ---
 
-## Leverage Decisions (from Module 2)
+## Leverage Decisions (Energy Allocation)
 
-These decisions define **how you allocate career energy**.
-They are copied from `2-leverage.md` and should change how you say yes or no.
+These decisions define **where effort compounds** and where it does not.  
+They come from `2-leverage.md`.
 
-This section exists to prevent drift back into low-leverage effort.
+### Leverage Priorities
+Things I will intentionally invest in, even when busy:
 
-- Leverage Decision #1:
+- Priority #1:
   - …
-- Leverage Decision #2:
-  - …
-- Leverage Decision #3:
-  - …
-- (Optional) Leverage Decision #4:
-  - …
-- (Optional) Leverage Decision #5:
+- Priority #2:
   - …
 
-**Rules**
-- These are decisions, not goals
-- If everything still feels important, revisit `2-leverage.md`
-- Changes here should be rare and intentional
+### Explicit Non-Priorities
+Things I am intentionally **not optimizing for** right now:
+
+- Non-priority #1:
+  - …
+- Non-priority #2:
+  - …
+
+### Key Assumptions
+These leverage choices depend on:
+
+- Assumption #1:
+  - …
+- Assumption #2:
+  - …
+
+If these assumptions break, leverage decisions must be revisited.
 
 ---
 
-## Direction Commitments (Next 6–12 Months)
+## Directional Commitments (6–12 Month Horizon)
 
-This section captures **where you are intentionally heading**  
-and what you are **not** optimizing for right now.
+These choices define **where I am aiming**, not a permanent identity.  
+They come from `3-direction.md`.
 
-These are distilled from `3-direction.md`.
+### Primary Direction (Main Bet)
 
-### Active Direction(s)
-
-List your **Primary Direction** and (optionally) your **Secondary / Insurance Direction**
-for the next 6–12 months.
-
-- Primary Direction:
+- Direction:
   - …
-- Secondary (Insurance) Direction (optional):
+- Why this is my main focus now:
+  - …
+- Tradeoffs I am accepting:
   - …
 
+### Secondary Direction (Insurance Path)
 
-### Deferred / Not-Pursued Directions
+- Direction:
+  - …
+- How this protects me if the primary stalls:
+  - …
 
-These paths are **intentionally deprioritized** for the current period.
+### Directions Explicitly Not Pursued
+
+These paths are consciously set aside to reduce noise:
+
+- Direction not pursued:
+  - Reason:
+    - …
+- Direction not pursued:
+  - Reason:
+    - …
+
+---
+
+## Positioning (How I Am Currently Being Reinforced)
+
+This defines how I want my work to be **understood**, not advertised.  
+It comes from `4-positioning.md`.
+
+### Current Positioning Statement
+
+- …
+
+### Outcomes I Am Actively Reinforcing
+
+These are **observable results**, not skills:
+
+- Outcome #1:
+  - …
+- Outcome #2:
+  - …
+- Outcome #3:
+  - …
+
+### Visibility I Am Intentionally Avoiding
+
+To prevent distraction or dilution:
 
 - …
 - …
+
+---
+
+## Current Focus (Now)
+
+This is what I am optimizing for **this quarter**.
+
+If something competes with this and is not listed, it loses.
+
+- Focus Area #1:
+  - …
+- Focus Area #2:
+  - …
+- (Optional) Focus Area #3:
+  - …
+
+---
+
+## Active Bets
+
+These are deliberate bets made **without certainty**.  
+They require attention and monitoring.
+
+Limit: **1–3 active bets total**.
+
+### Active Bet #1
+- What I am betting on:
+  - …
+- Why this bet exists now:
+  - …
+- What success would look like:
+  - …
+- What would invalidate this bet:
+  - …
+
+(Optional)
+### Active Bet #2
 - …
+  
+---
 
-### Direction Thesis (One Sentence)
+## Triggers & Signals
 
-A short statement that summarizes your current stance.
+These tell me **when to pause, adjust, or change course**.  
+They come from `3-direction.md` and `5-execution.md`.
 
-This sentence should make tradeoffs explicit and help you decide
-what *does not* belong on your plate this year.
+### Signals to Watch
 
-- “Over the next year, I am primarily optimizing for … while intentionally deprioritizing …”
+Changes in environment, structure, or demand:
 
-### Change Triggers
-
-Concrete signals that would cause you to revisit your direction.
-
-Select the **1–2 most meaningful signals per category**.
-More than that reduces clarity.
-
-- Org-level trigger:
+- Signal #1:
   - …
-- Role-level trigger:
+- Signal #2:
   - …
-- Market-level trigger:
-  - …
-- Personal trigger:
+- Signal #3:
   - …
 
+### Decision Triggers
 
-**Rules**
-- Direction ≠ permanent commitment
-- If your actions consistently contradict this section, update it
-- Avoid adding more than two active directions
+Clear conditions that require action, not debate:
+
+- Trigger #1:
+  - …
+- Trigger #2:
+  - …
+
+When a trigger fires, this roadmap must be reviewed.
 
 ---
 
-## Review Log
+## What I’m Intentionally Not Doing
 
-A lightweight history of changes to this roadmap.
+This section preserves leverage and focus.
 
-This keeps the system honest and grounded over time.
+If something is not allowed here, it will creep back in.
 
-- Date:
-  - What changed:
-    - …
-  - Why:
-    - …
-
-- Date:
-  - What changed:
-    - …
-  - Why:
-    - …
-
-Keep entries short.  
-If nothing changes during a review, note that explicitly.
+- I am not investing in:
+  - …
+- I am not optimizing for:
+  - …
+- I am explicitly avoiding:
+  - …
 
 ---
 
-> Usage Reminder  
-> This roadmap is meant to be revisited regularly.
-> Read it end-to-end before making significant career decisions.
+## Operating Rules
+
+- This file is reviewed:
+  - monthly (quick pass)
+  - quarterly (deeper reset)
+- Changes must have a reason
+- Fewer decisions beat more ideas
+- Calm consistency beats reactive motion
+
+This roadmap exists so I don’t have to rethink everything under pressure.

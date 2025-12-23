@@ -1,22 +1,19 @@
-# Career Leverage — What to Invest In (and What to Stop)
+# Career Baseline — Your Starting Point
 
 ## Why this exists
 
-This module helps you make **deliberate decisions about where your career energy goes**.
+This module helps you establish a **clear, factual baseline** of your current career reality.
 
-At mid-to-senior levels, career outcomes are no longer driven by effort alone.
-They are driven by **where effort is applied and where it is not**.
+Most experienced developers carry this information loosely in their head.  
+Writing it down exposes where **assumptions, incentives, and reality diverge**.
 
-Most experienced developers over-invest in things that *feel* responsible or productive,
-but no longer compound influence, trust, or options.
-
-This module forces explicit tradeoffs.
+This is a diagnostic step that makes future decisions calmer and more deliberate.
 
 **What this unlocks**
-- Less wasted effort on low-return work
-- More capacity for things that actually compound
-- Reduced anxiety caused by "doing everything"
-- Clear inputs for prioritization in later modules
+- Clearer tradeoffs in later modules
+- Earlier detection of real risk (not imagined risk)
+- Fewer reactive or emotional decisions
+- Reduced background anxiety caused by ambiguity
 
 ---
 
@@ -25,50 +22,28 @@ This module forces explicit tradeoffs.
 - Bullet points only  
 - Be specific and concrete  
 - "Good enough" answers are fine  
-- This is about **allocation**, not aspiration  
-- You must stop or reduce something for this module to be complete  
+- No future planning here  
+- If you already think clearly in writing, you may not need AI at all in this module. Skipping AI does not reduce the value of this exercise.
 - Time-box this to **30–45 minutes total**
 
-If nothing feels uncomfortable to write or cut, you are probably being too safe.
+If something feels slightly uncomfortable to write, you are probably doing it right.
 
 ---
 
-## 1. Where Is My Effort Actually Going?
+## 1. What Is My Role Actually Optimized For?
 
-Describe reality, not intent.
+Describe the work you actually do and are relied on for today, not your title or what the role is supposed to be.
 
-- Most of my work time currently goes to:
+- Core outcomes my role reliably produces:
   - …
   - …
-- Most of my mental energy (thinking, worrying, preparing) goes to:
+- Problems I'm consistently pulled into when things matter:
   - …
-  - …
-- Most of my learning or upskilling time goes to:
-  - …
-- When things get busy or uncertain, I default to:
+- If I stopped working for 30 days, the biggest gaps would be:
   - …
 
 **Constraint:**  
-Do not evaluate yet. Just describe where energy is actually spent.
-
----
-
-## 2. What Effort Is Actually Paying Off?
-
-Identify activities with **observable returns**, not hoped-for ones.
-
-- Effort or investment that has produced real returns:
-  - What I invest in:
-    - …
-  - What return it has produced (trust, influence, visibility, options):
-    - …
-  - Who notices or benefits:
-    - …
-
-- (Optional second item if applicable)
-  - …
-
-If there is no evidence of return, leave it out.
+Do not describe aspirations or future scope. Only current reality.
 
 <details>
 <summary><strong>Optional AI Assist (click to expand)</strong></summary>
@@ -76,141 +51,144 @@ If there is no evidence of return, leave it out.
 If you already think clearly in writing, you can skip this.
 
 **Prompt:**  
-Based only on what I’ve written, point out patterns in what types of effort
-seem to produce returns versus those that do not.
-Do not suggest what I should do next.
+Given the bullets I’ve written above, help me rephrase them into clearer,
+more concrete statements of what my role is actually optimized for.
+Do not add new responsibilities or speculate beyond what I’ve written.
+
+</details>
+
+
+---
+
+## 2. What Actually Gets Rewarded Currently?
+
+Separate effort from reward.
+Start with what you personally are rewarded for, then zoom out to what tends to be rewarded in the organization overall.
+
+- Behaviors or contributions that are visibly rewarded (raises, trust, influence):
+  - …
+- Work that is praised but does not materially change my position:
+  - …
+- Work that is critical but mostly invisible:
+  - …
+
+**Reminder:**  
+Disliking what gets rewarded does not make it untrue.
+
+<details>
+<summary><strong>Optional AI Assist (click to expand)</strong></summary>
+
+If you already think clearly in writing, you can skip this.
+
+**Prompt:**
+Based on what I've listed as rewarded vs praised work,
+point out any patterns or mismatches between effort and reward.
+Only analyze what's written. Do not suggest changes.
 </details>
 
 ---
 
-## 3. What Feels Productive but No Longer Compounds?
+## 3. Where Am I Exposed?
 
-These are activities that feel safe, responsible, or busy,
-but produce diminishing career returns.
+Name risks that could materially affect your role or options.
 
-- Activity that feels productive:
+- Role-level exposure (replaceability, narrow ownership, dependencies):
   - …
-  - Why I keep doing it:
-    - …
-  - What it actually returns now:
-    - …
-
-- (Optional second item)
+- Organization-level exposure (strategy shifts, budget pressure, leadership churn):
+  - …
+- Market-level exposure (layoffs, hiring trends, AI impact, how this role translates externally):
   - …
 
-Be honest. This section should feel slightly uncomfortable.
+Do not solve or rank risks here. Just name them.
+Include signals you’re already seeing, not predictions.
 
 <details>
 <summary><strong>Optional AI Assist (click to expand)</strong></summary>
 
 If you already think clearly in writing, you can skip this.
 
-**Prompt:**  
-Help me check whether the returns I listed are concrete or vague.
-Do not add new activities.
-Do not tell me to stop anything.
+**Prompt:**
+Review the risks I've listed and help categorize them as:
+- role-level
+- org-level
+- market-level
+
+Do not rank them or add new risks.
 </details>
 
 ---
 
-## 4. What Actually Creates Leverage for Me?
+## 4. What Leverage Do I Already Have?
 
-Identify **categories of effort** that amplify impact beyond raw execution.
+Inventory existing leverage, not aspirational leverage.
 
-Think in terms of:
-- trust
-- reuse
-- decision influence
-- visibility beyond your immediate team
-- portability across roles or companies
-
-- Leverage category that compounds for me:
+- Knowledge, context, or skills that would be costly to replace:
   - …
-  - Why this compounds in practice:
-    - …
-
-- (List up to 3–5 total)
+- Relationships or trust that give me informal influence:
+  - …
+- Areas where my opinion already carries weight:
   - …
 
-This is not about tactics yet. Only what *matters*.
+If it already works in practice, it counts as leverage.
 
 <details>
 <summary><strong>Optional AI Assist (click to expand)</strong></summary>
 
 If you already think clearly in writing, you can skip this.
 
-**Prompt:**  
-Help me restate these as clear leverage statements
-(e.g., "This compounds because…").
-Do not invent leverage I didn’t list.
+**Prompt:**
+Based on my leverage list, help me restate these as concise leverage statements
+(e.g., "I am trusted for X because Y").
+Do not invent leverage I didn't list.
 </details>
 
 ---
 
-## 5. What Will I Stop or Reduce? (Required)
+## 5. What Constraints Must I Respect?
 
-This section creates capacity. It is mandatory.
+State constraints explicitly. These are design inputs, not weaknesses.
 
-### Stop
-Things I will intentionally stop investing energy in:
-- …
-- …
+- Time and energy constraints:
+  - …
+- Financial or risk constraints:
+  - …
+- Personal or psychological constraints (what I am unwilling to tolerate):
+  - …
 
-### Reduce
-Things I will continue, but with explicit limits:
-- …
-- …
-
-### Conditional Only
-Things I will do only with clear justification:
-- …
-- …
-
-**Constraint:**  
-If this list does not cost me something, it is not real.
+Ignoring constraints leads to plans you won't execute.
 
 <details>
 <summary><strong>Optional AI Assist (click to expand)</strong></summary>
 
 If you already think clearly in writing, you can skip this.
 
-**Prompt:**  
-Help me rewrite my stop / reduce items so they are concrete and unambiguous.
-Do not argue against stopping them.
+**Prompt:**
+Help me check whether the constraints I've listed are concrete and specific.
+Flag any that are vague so I can tighten them.
+Do not challenge or override them.
 </details>
 
 ---
 
-## 6. Near-Term Reallocation (Next 90 Days)
+## Baseline Truths (Required)
 
-Based on everything above, for the next 90 days:
+From everything above, extract **3–5 baseline truths** that feel accurate even if uncomfortable.
 
-- I will invest more energy in:
+Choose truths that would meaningfully affect how you say yes or no to opportunities over the next 6-12 months.
+These should describe:
+- Your current reality
+- Not aspirations
+- Not fears
+
+- Baseline Truth #1:
   - …
-- I will explicitly protect time for:
+- Baseline Truth #2:
   - …
-- I will ignore or deprioritize without guilt:
+- Baseline Truth #3:
   - …
-
-Keep this short. Fewer than 5 bullets total.
-
----
-
-## Leverage Decisions (Required)
-
-From this module, extract **3–5 leverage decisions** that feel accurate even if uncomfortable.
-
-These should clearly influence how you say yes or no over the next 3–6 months.
-
-- Leverage Decision #1:
+- (Optional) Baseline Truth #4:
   - …
-- Leverage Decision #2:
-  - …
-- Leverage Decision #3:
-  - …
-- (Optional) Leverage Decision #4:
-  - …
-- (Optional) Leverage Decision #5:
+- (Optional) Baseline Truth #5:
   - …
 
 <details>
@@ -218,25 +196,27 @@ These should clearly influence how you say yes or no over the next 3–6 months.
 
 If you already think clearly in writing, you can skip this.
 
-**Prompt:**  
-Check whether these leverage decisions are:
+**Prompt:**
+Given my baseline truths above, help me check whether they are:
 - grounded in what I wrote earlier
-- stated clearly
-- free of vague intent or future promises
+- stated clearly and specifically
+- free of future planning or optimism
 
-Do not rewrite unless I ask.
+Do not rewrite them unless I ask.
 </details>
+
 
 ---
 
-## Roadmap Transfer (Do This Before Moving On)
+## Distillation → roadmap.md (Required)
+From this file, copy only **stable, factual constraints** into:
+`roadmap.md → Baseline Truths (Anchor)`
 
-Copy the following into `roadmap.md`:
-- 1–2 leverage priorities
-- 1–2 explicit non-priorities
-- Any key assumption these depend on
+Rules:
+- These must be facts, not interpretations
+- No future intent
+- No action items
+- If this changed tomorrow, it would be noticeable
 
-These are **inputs** to the Career Control System, not final answers.
-
-When you’re done, move on.  
-Leverage only compounds if you act on it.
+Do not copy explanations. 
+Only copy the truths that should constrain future decisions.

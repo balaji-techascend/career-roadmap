@@ -228,33 +228,30 @@ Prompts you can use:
 
 ---
 
-## Step 8 — Signals That Would Change Direction
+## Distillation → roadmap.md (Required)
 
-Define what evidence would cause you to **re-evaluate your plan**.
+When complete, update `roadmap.md` as follows:
 
-These signals map directly into **`roadmap.md → Change Triggers`**.
+### → Directional Commitments
+- Copy your **Primary Direction**
+- Copy your **Secondary Direction**
+- Copy your **accepted tradeoffs**
 
-- Signal 1: …
-  - Goes into `roadmap.md → Change Triggers → Primary Direction`
-- Signal 2: …
-  - Goes into `roadmap.md → Change Triggers → Primary Direction`
-- Signal 3: …
-  - Goes into `roadmap.md → Change Triggers → Secondary Direction`
-- Signal 4: …
-  - Goes into `roadmap.md → Change Triggers → Secondary Direction`
+### → Directions Explicitly Not Pursued
+- Copy items from Step 5
+- Include the short reason for each
 
-<details>
-<summary><strong>Optional AI Assist (click to expand)</strong></summary>
+### → Triggers & Signals
+- Copy signals from Step 8
+- Place them under:
+  - Primary Direction signals
+  - Secondary Direction signals
 
-If you already think clearly in writing, you can skip this.
+Rules:
+- Do not re-explain
+- Do not soften language
+- These entries should survive re-reading under stress
 
-Prompts you can use:
-- “Are these signals objective and observable?”
-- “Which signals would be noisy vs decisive?”
-- “What would count as a false alarm?”
-- “What would be a strong positive signal?”
-
-</details>
 
 ---
 
@@ -267,4 +264,3 @@ When complete, you should have:
 - Explicit risks  
 - Clear change signals  
 
-You are now ready to convert this into a **focused execution roadmap**.

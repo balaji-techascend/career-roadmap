@@ -111,31 +111,25 @@ Make sure these choices respect the constraints you captured in 1-baseline.md
 
 ---
 
-## 7. Distillation → roadmap.md
+## Distillation → roadmap.md (Required)
 
-Before moving on, distill your work above into **decisions** and copy them into `roadmap.md`.
+Before moving on, update the following sections in `roadmap.md`:
+
+### → Leverage Decisions (Energy Allocation)
+
+Copy:
+- 1–2 items into **Leverage Priorities**
+- 1–2 items into **Explicit Non-Priorities**
+- Any assumption these depend on into **Key Assumptions**
+
+Rules:
+- Phrase these as decisions, not goals
+- They must change how you say yes or no
+- If a choice feels reversible, it is too weak
 
 Do not copy raw notes.  
-Do not explain or justify.  
-Only transfer what should actively constrain future choices.
+Only transfer what should actively constrain future effort.
 
-### Copy into `roadmap.md → Leverage Decisions`
-
-- Leverage Decision #1:
-  - …
-- Leverage Decision #2:
-  - …
-- Leverage Decision #3:
-  - …
-- (Optional) Leverage Decision #4:
-  - …
-- (Optional) Leverage Decision #5:
-  - …
-
-These should:
-- Be phrased as decisions, not intentions
-- Change how you say yes or no
-- Reflect real stop / reduce tradeoffs
 
 **Completion Check**
 
