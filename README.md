@@ -2,13 +2,10 @@
 
 This repository is a **private career control system**.
 
-It is not documentation.  
-It is not a journal.  
-It is not meant to be polished or impressive.
+It is mission control for the next 12 months that you will create.
+Just signal extraction and course correction as conditions change. We are not talking about polish or performance.
 
-Its purpose is to help you **make clearer, calmer career decisions** through the next year — and to keep doing so as conditions change.
-
-The goal is **clarity and control**, not certainty.
+The target is **Agency** with **clarity and control**. Certainty doesn't exist anyway.
 
 ---
 
