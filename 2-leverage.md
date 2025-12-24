@@ -15,9 +15,14 @@ Bullet points only.
 Describe where your energy actually goes today.
 
 - Where most of my **work time** goes
+  - ...
 - Where most of my **mental energy** goes (even off-hours)
+  - ...
 - Where most of my **learning / upskilling** time goes
+  - ...
 - What I default to when things get busy or uncertain
+  - ...
+
 
 Do not judge yet. Just capture reality.
 
@@ -32,6 +37,16 @@ For each item, note:
 - What return it has produced (trust, visibility, influence, optionality, growth)
 - Who notices or benefits from this
 
+- Item:
+  - What I invest in:
+    - ...
+  - What return it has produced:
+    - ...
+  - Who notices or benefits:
+    - ...
+
+(repeat this 2-4 times)
+
 If there is no evidence, it does not belong here.
 
 ---
@@ -45,6 +60,16 @@ For each item:
 - What I keep doing
 - Why I keep doing it
 - What it actually returns *now* (not historically)
+
+- Activity:
+  - What I keep doing:
+    - ...
+  - Why I keep doing it:
+    - ...
+  - What it actually returns now:
+    - ...
+
+(repeat as needed)
 
 Be honest. Discomfort here is expected.
 
@@ -63,6 +88,15 @@ Think in terms of:
 - Skills or artifacts that survive role changes
 
 List **3–5** areas only.  
+
+- Leverage area:
+  - ...
+- Leverage area:
+  - ...
+- Leverage area:
+  - ...
+
+
 No tactics yet. Just what *matters*.
 
 ---

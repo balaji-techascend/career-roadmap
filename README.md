@@ -28,14 +28,14 @@ All other files exist to *feed* it.
 
 ## Repository Structure
 
-career-roadmap/
-├─ README.md ← how to use the system
-├─ 1-baseline.md ← grounding reality
-├─ 2-leverage.md ← effort allocation
-├─ 3-direction.md ← direction selection
-├─ 4-positioning.md ← how you will be seen
-├─ 5-execution.md ← operating cadence
-└─ roadmap.md ← authoritative control panel
+career-roadmap/  
+├─ README.md ← how to use the system  
+├─ 1-baseline.md ← grounding reality  
+├─ 2-leverage.md ← effort allocation  
+├─ 3-direction.md ← direction selection  
+├─ 4-positioning.md ← how you will be seen  
+├─ 5-execution.md ← operating cadence  
+└─ roadmap.md ← authoritative control panel  
 
 
 - All numbered `.md` files are **working layers**
