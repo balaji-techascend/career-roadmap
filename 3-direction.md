@@ -228,6 +228,39 @@ Prompts you can use:
 
 ---
 
+## Step 8 — Triggers & Signals (When to Re-Evaluate)
+
+Define **concrete signals** that would force you to reconsider your chosen directions.
+
+These are **not goals**.  
+They are **tripwires**.
+
+### Primary Direction — Signals
+- Signal 1: …
+- Signal 2: …
+- Signal 3: …
+
+### Secondary Direction — Signals
+- Signal 1: …
+- Signal 2: …
+
+Rules:
+- Signals must be **observable**, not emotional  
+- Prefer **external reality** over internal feelings  
+- If a signal triggers, you revisit direction — no debate
+
+<details>
+<summary><strong>Optional AI Assist (click to expand)</strong></summary>
+
+Prompts you can use:
+- “What early signals usually appear before this path stalls?”
+- “What would tell me I’m over-investing here?”
+- “What signal would justify switching to my secondary direction?”
+
+</details>
+
+---
+
 ## Distillation → roadmap.md (Required)
 
 When complete, update `roadmap.md` as follows:
