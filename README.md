@@ -11,7 +11,7 @@ The target is **Agency** with **clarity and control**. Certainty doesn't exist a
 
 ## Part of the Career Control System Course
 
-This repository is the core working artifact used in the **Career Control System** course.
+This repository is also the core working artifact used in the **Career Control System** course.
 
 The course provides the context, decision frameworks, and walkthroughs that explain **how** and **why** to use this repo correctly—without turning it into busywork or documentation.
 
@@ -21,8 +21,6 @@ In addition, the course includes:
 
 👉 Learn more here:  
 https://careercontrol.techascendacademy.com/
-
-
 
 ---
 
